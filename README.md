@@ -1,3 +1,3 @@
 # Problems
 
-Competetive programming problems in java
+Competitive programming problems in java
